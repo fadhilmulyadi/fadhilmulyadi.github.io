@@ -5,7 +5,7 @@ categories: [DESAIN ANALISIS ALGORITMA, DIJKSTRA's ALGORITHM]
 tags: [daa, algorithm, backtracking, dijkstra, c++]
 ---
 
-![Desktop View](/assets/lib/images/post/DJK.png)
+![Desktop View](/assets/images/post/DJK.png)
 
 # Menemukan Jalur Terpendek: Memahami Algoritma Dijkstra
 

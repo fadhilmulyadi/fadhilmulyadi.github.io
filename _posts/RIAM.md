@@ -5,7 +5,7 @@ categories: [DESAIN ANALISIS ALGORITMA, BACKTRACKING ALGORITHM]
 tags: [daa, algorithm, backtracking, c++]
 ---
 
-![Desktop View](/assets/lib/images/post/RIAM.png)
+![Desktop View](/assets/images/post/RIAM.png)
 
 # Menelusuri Labirin: Memecahkan Rat in a Maze Problem
 

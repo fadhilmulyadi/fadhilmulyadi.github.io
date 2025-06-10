@@ -5,7 +5,7 @@ categories: [DESAIN ANALISIS ALGORITMA, GREEDY ALGORITHM]
 tags: [daa, algorithm, greedy]
 ---
 
-![Desktop View](/assets/lib/images/post/HUFFMAN.png)
+![Desktop View](/assets/images/post/HUFFMAN.png)
 
 # Mengoptimalkan Data: Memahami Huffman Coding
 

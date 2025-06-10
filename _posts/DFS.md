@@ -5,7 +5,7 @@ categories: [DESAIN ANALISIS ALGORITMA, BACKTRACKING ALGORITHM]
 tags: [daa, algorithm, backtracking, dfs, c++]
 ---
 
-![Desktop View](/assets/lib/images/post/DFS.png)
+![Desktop View](/assets/images/post/DFS.png)
 
 # Menyelam Lebih Dalam: Memahami Depth-First Search (DFS)
 

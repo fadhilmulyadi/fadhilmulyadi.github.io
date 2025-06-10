@@ -5,7 +5,7 @@ categories: [DESAIN ANALISIS ALGORITMA, KAHN'S ALGORITHM]
 tags: [daa, algorithm, backtracking, kahn, c++]     # TAG names should always be lowercase
 ---
 
-![Desktop View](/assets/lib/images/post/KAHN.png)
+![Desktop View](/assets/images/post/KAHN.png)
 
 # Mengurutkan Ketergantungan: Memahami Kahn's Algorithm (Topological Sort)
 

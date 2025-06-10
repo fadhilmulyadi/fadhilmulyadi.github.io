@@ -5,7 +5,7 @@ categories: [DESAIN ANALISIS ALGORITMA, GREEDY ALGORITHM]
 tags: [daa, algorithm, greedy, c++]
 ---
 
-![Desktop View](/assets/lib/images/post/FK.png)
+![Desktop View](/assets/images/post/FK.png)
 
 # Mengoptimalkan Muatan: Memahami Fractional Knapsack
 

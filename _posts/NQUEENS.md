@@ -5,7 +5,7 @@ categories: [DESAIN ANALISIS ALGORITMA, BACKTRACKING ALGORITHM]
 tags: [daa, algorithm, backtracking]
 ---
 
-![Desktop View](/assets/lib/images/post/NQUEENS.png)
+![Desktop View](/assets/images/post/NQUEENS.png)
 
 # Tantangan Ratu Catur: Memecahkan N-Queens Problem
 

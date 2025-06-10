@@ -5,7 +5,7 @@ categories: [DESAIN ANALISIS ALGORITMA, BACKTRACKING ALGORITHM]
 tags: [daa, algorithm, backtracking, bfs, c++]
 ---
 
-![Desktop View](/assets/lib/images/post/BFS.png)
+![Desktop View](/assets/images/post/BFS.png)
 
 # Menjelajahi Jaringan: Memahami Breadth-First Search (BFS)
 

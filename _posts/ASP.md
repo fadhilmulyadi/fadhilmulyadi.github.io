@@ -5,7 +5,7 @@ categories: [DESAIN DAN ANALISIS ALGORITMA, GREEDY ALGORITHM]
 tags: [daa, algorithm, greedy, c++]
 ---
 
-![Desktop View](/assets/lib/images/post/ASP.png)
+![Desktop View](/assets/images/post/ASP.png)
 
 # Memaksimalkan Jadwal: Memahami Activity Selection Problem
 

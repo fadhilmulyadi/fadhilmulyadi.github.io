@@ -5,7 +5,7 @@ categories: [DESAIN ANALISIS ALGORITMA, BACKTRACKING ALGORITHM]
 tags: [daa, algorithm, backtracking, c++]
 ---
 
-![Desktop View](/assets/lib/images/post/SSP.png)
+![Desktop View](/assets/images/post/SSP.png)
 
 # Mengurai Angka: Memecahkan Subset Sum Problem
 
