@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 # Hi there! 👋 I'm Fadhil
 
 **Muhammad Fadhil Mulyadi** | Information Systems Student at Universitas Hasanuddin
