@@ -9,7 +9,7 @@ tags: [daa, algorithm, greedy]
 
 # Mengoptimalkan Data: Memahami Huffman Coding
 
-## 🧾 Pengantar: Mengapa Kita Perlu Kompresi Data?
+## 🧾 Pengantar: Mengapa Kita Perlu Kompresi Data ?
 
 Pernahkah Anda bertanya bagaimana file bisa menjadi lebih kecil tanpa kehilangan informasinya? Jawabannya ada pada algoritma kompresi! Salah satu yang paling elegan dan efisien adalah **Huffman Coding**.
 
@@ -19,7 +19,7 @@ Pernahkah Anda bertanya bagaimana file bisa menjadi lebih kecil tanpa kehilangan
 
 ## 🧠 Konsep Inti: Kode Variabel Berdasarkan Frekuensi
 
-### Bagaimana Huffman Coding Bekerja?
+### Bagaimana Huffman Coding Bekerja ? 
 
 Inti dari Huffman Coding terletak pada prinsip **kode panjang variabel**. Ini berarti setiap karakter tidak memiliki panjang kode bit yang sama.
 
